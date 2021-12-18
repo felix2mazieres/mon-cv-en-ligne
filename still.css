@@ -1,0 +1,27 @@
+img{width: 200px;
+	border-radius:50% ;
+height: 200px;
+border:chocolate ;}
+header{
+	color: blue;
+	font-size:x-large ;
+	text-align: center;
+}
+H1{color: darkblue;text-align: center;}
+.Caractéristiques{
+	color: blue;background: darkgray;
+}
+H2{
+	color: darkcyan;
+}
+.Caractéristiques{ background: lightgray;
+width: 500px; 
+box-shadow: 20px 20px 15px #444;
+text-align: left;
+margin-left: 400px;
+color: whitesmoke;
+}
+
+.profil{background:darkgrey;}
+BODY{background: darkslategray;}
+
